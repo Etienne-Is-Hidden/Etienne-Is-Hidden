@@ -5,7 +5,7 @@ I like ... Music,
 I also like ... spending time with friends,
 I equally like to ... learn things!
 
-Currently in 11th Grade (German Gymnasium)
+Currently in 12th Grade (German Gymnasium)
 
 I have experience in these programming languages:
 
